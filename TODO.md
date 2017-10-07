@@ -1,0 +1,43 @@
+#Todo for K.ASS:
+
+-------------------
+x = Selesai
+: = hampir selesai
+. = Sebagian selesai
+  = belum selesai
+
+-------------------
+
+
+[x] Basic subtitles reading/writing interface
+[x] Text file reader/writer
+[x] Automatic character set detection
+[x] Conversion between subtitle formats
+[x] Format comformity checks
+[x] Override tag support
+[x] ASS format support
+[x] ASS override tags
+[.] Simple subtitles (srt, microdvd, encore, etc) format support
+[x] Matroska-embedded subtitles support
+[x] DVD subtitles support (*)
+[x] Blu-Ray subtitles support (*)
+[x] OCR support (through Tesseract) (*)
+[.] Logging system
+[:] Kara Effect Generator include font
+
+[:] Time helper class
+[:] Colour helper class
+[x] Tokenizer helper class
+[x] Exception class
+
+[x] Basic manipulation system
+[.] Reading subtitles data from model
+[x] Inserting/removing/modifying lines
+[.] Multi-line manipulation via selections
+[:] Undo/redo stack
+[ ] Owner-based undo/redo operations
+[x] Delta coded undo/redo
+
+[x] Basic MVC structure
+[.] Controller
+[ ] Notifications for views
