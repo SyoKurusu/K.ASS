@@ -1,11 +1,10 @@
-#Todo for K.ASS:
+Todo for K.ASS:
 
 -------------------
 x = Selesai
 : = hampir selesai
 . = Sebagian selesai
   = belum selesai
-
 -------------------
 
 
@@ -40,4 +39,5 @@ x = Selesai
 
 [x] Basic MVC structure
 [.] Controller
-[ ] Notifications for views
+[x] Notifications for views
+[ ] Auto Download From nyaa.si / nyaa.pantsu.cat
